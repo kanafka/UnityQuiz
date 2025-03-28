@@ -1,0 +1,42 @@
+{
+  "_info": "Сonnect",
+  "_answerPuzzleLefts": [
+    {
+      "_info": "unity",
+      "_index": 1
+    },
+    {
+      "_info": "unreal",
+      "_index" : 3
+    },
+    {
+      "_info": "pygame",
+      "_index": 2
+    },
+    {
+      "_info": "scratch",
+      "_index": 4
+    }
+  ],
+  "_answerPuzzleRights": [
+    {
+      "_info": "C#",
+      "_correctIndex": 1
+    },
+    {
+      "_info": "c++",
+      "_correctIndex": 3
+    },
+    {
+      "_info": "Python",
+      "_correctIndex": 2
+    },
+    {
+      "_info": "Blocks",
+      "_correctIndex": 4
+    }
+  ],
+  "_answers":[],
+  "_answerType": 2,
+  "_addScore": 50
+}

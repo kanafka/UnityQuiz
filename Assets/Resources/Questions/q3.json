@@ -1,0 +1,21 @@
+{
+  "_info": "2 + 2 = ",
+  "_answerPuzzleLefts": [],
+  "_answerPuzzleRights": [],
+  "_answers":[
+    {
+      "_info": "4",
+      "_isCorrect": true
+    },
+    {
+      "_info": "4",
+      "_isCorrect": true
+    },
+    {
+      "_info": "5",
+      "_isCorrect": false
+    }
+  ],
+  "_answerType": 0,
+  "_addScore": 50
+}
